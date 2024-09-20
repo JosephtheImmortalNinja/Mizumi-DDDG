@@ -1,0 +1,38 @@
+{
+	"$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/repo_schema.json",
+	"authors": {
+		"AwesomeNinjaXD": {
+			"discord": "awesomeninjaxd",
+			"reddit": "AwesomeNinjaXD"
+		},
+		"Lecraftx9": {
+			"discord": "lecraftx9",
+			"twitter": "Lecraftx9"
+		},
+		"StormBlazed76": {
+			"discord": "stormblaze76",
+			"reddit": "StormBlazed76"
+		}
+	},
+	"pack": {
+		"authors": [
+			"AwesomeNinjaXD"
+		],
+		"characters": [
+			"Mizumi"
+		],
+		"description": "",
+		"id": "mizumi.storm_blaze.awesomeninjaxd",
+		"name": "Mizumi",
+		"kind": [
+			"Characters"
+		],
+		"preview": [
+			"./a.png",
+			"./1l.png",
+			"./1r.png"
+		],
+		"source": "https://www.reddit.com/r/DDLCMods/comments/17n34hm/oc_sprites_mizumi_drawn_by_ulecraftx9/",
+		"dddg2Path": "./index.json"
+	}
+}
