@@ -8,392 +8,6 @@
 			"id": "mizumi",
 			"label": "Mizumi",
 			"chibi": "./a.png",
-			"styleGroups": [
-				{
-					"id": "uniform_lh",
-					"styles": [
-						{
-							"poses": [
-								{
-									"id": "base",
-									"positions": {
-										"Variant": [
-											[
-												"./1l.png",
-												"./1r.png"
-											],
-											[
-												"./1l.png",
-												"./2r.png"
-											],
-											[
-												"./2l.png",
-												"./1r.png"
-											],
-											[
-												"./2l.png",
-												"./2r.png"
-											],
-											[
-												"./3l.png",
-												"./1r.png"
-											],
-											[
-												"./3l.png",
-												"./2r.png"
-											]
-										]
-									},
-									"compatibleHeads": [
-										"longhair_1",
-										"longhair_2",
-										"longhair_3",
-										"longhair_4",
-										"longhair_5",
-										"longhair_6"
-									]
-								}
-							]
-						}
-					]
-				},
-				{
-					"id": "casual_lh",
-					"styles": [
-						{
-							"poses": [
-								{
-									"id": "base",
-									"positions": {
-										"Variant": [
-											[
-												"./1bl.png",
-												"./1br.png"
-											],
-											[
-												"./1bl.png",
-												"./2br.png"
-											],
-											[
-												"./2bl.png",
-												"./1br.png"
-											],
-											[
-												"./2bl.png",
-												"./2br.png"
-											],
-											[
-												"./3bl.png",
-												"./1br.png"
-											],
-											[
-												"./3bl.png",
-												"./2br.png"
-											]
-										]
-									},
-									"compatibleHeads": [
-										"longhair_1",
-										"longhair_2",
-										"longhair_3",
-										"longhair_4",
-										"longhair_5",
-										"longhair_6"
-									]
-								}
-							]
-						}
-					]
-				},
-				{
-					"id": "swimsuit_lh",
-					"styles": [
-						{
-							"poses": [
-								{
-									"id": "base",
-									"compatibleHeads": [
-										"longhair_1",
-										"longhair_2",
-										"longhair_3",
-										"longhair_4",
-										"longhair_5",
-										"longhair_6"
-									],
-									"positions": {
-										"Variant": [
-											[
-												"./1sl.png",
-												"./1sr.png"
-											],
-											[
-												"./1sl.png",
-												"./2sr.png"
-											],
-											[
-												"./2sl.png",
-												"./1sr.png"
-											],
-											[
-												"./2sl.png",
-												"./2sr.png"
-											],
-											[
-												"./3sl.png",
-												"./1sr.png"
-											],
-											[
-												"./3sl.png",
-												"./2sr.png"
-											]
-										]
-									}
-								}
-							]
-						}
-					]
-				},
-				{
-					"id": "winter_lh",
-					"styles": [
-						{
-							"poses": [
-								{
-									"id": "base",
-									"positions": {
-										"Variant": [
-											[
-												"./1wl.png",
-												"./1wr.png"
-											],
-											[
-												"./1wl.png",
-												"./2wr.png"
-											],
-											[
-												"./2wl.png",
-												"./1wr.png"
-											],
-											[
-												"./2wl.png",
-												"./2wr.png"
-											],
-											[
-												"./3wl.png",
-												"./1wr.png"
-											],
-											[
-												"./3wl.png",
-												"./2wr.png"
-											]
-										]
-									},
-									"compatibleHeads": [
-										"longhair_1",
-										"longhair_2",
-										"longhair_3",
-										"longhair_4",
-										"longhair_5",
-										"longhair_6"
-									]
-								}
-							]
-						}
-					]
-				},
-				{
-					"id": "uniform_sh",
-					"styles": [
-						{
-							"poses": [
-								{
-									"id": "base",
-									"compatibleHeads": [
-										"shorthair_1",
-										"shorthair_2",
-										"shorthair_3",
-										"shorthair_4",
-										"shorthair_5",
-										"shorthair_6"
-									],
-									"positions": {
-										"Variant": [
-											[
-												"./1lb.png",
-												"./1rb.png"
-											],
-											[
-												"./1lb.png",
-												"./2rb.png"
-											],
-											[
-												"./2lb.png",
-												"./1rb.png"
-											],
-											[
-												"./2lb.png",
-												"./2rb.png"
-											],
-											[
-												"./3lb.png",
-												"./1rb.png"
-											],
-											[
-												"./3lb.png",
-												"./2rb.png"
-											]
-										]
-									}
-								}
-							]
-						}
-					]
-				},
-				{
-					"id": "casual_sh",
-					"styles": [
-						{
-							"poses": [
-								{
-									"id": "base",
-									"compatibleHeads": [
-										"shorthair_1",
-										"shorthair_2",
-										"shorthair_3",
-										"shorthair_4",
-										"shorthair_5",
-										"shorthair_6"
-									],
-									"positions": {
-										"Variant": [
-											[
-												"./1blb.png",
-												"./1brb.png"
-											],
-											[
-												"./1blb.png",
-												"./2brb.png"
-											],
-											[
-												"./2blb.png",
-												"./1brb.png"
-											],
-											[
-												"./2blb.png",
-												"./2brb.png"
-											],
-											[
-												"./3blb.png",
-												"./1brb.png"
-											],
-											[
-												"./3blb.png",
-												"./2brb.png"
-											]
-										]
-									}
-								}
-							]
-						}
-					]
-				},
-				{
-					"id": "swimsuit_sh",
-					"styles": [
-						{
-							"poses": [
-								{
-									"id": "base",
-									"compatibleHeads": [
-										"shorthair_1",
-										"shorthair_2",
-										"shorthair_3",
-										"shorthair_4",
-										"shorthair_5",
-										"shorthair_6"
-									],
-									"positions": {
-										"Variant": [
-											[
-												"./1slb.png",
-												"./1srb.png"
-											],
-											[
-												"./1slb.png",
-												"./2srb.png"
-											],
-											[
-												"./2slb.png",
-												"./1srb.png"
-											],
-											[
-												"./2slb.png",
-												"./2srb.png"
-											],
-											[
-												"./3slb.png",
-												"./1srb.png"
-											],
-											[
-												"./3slb.png",
-												"./2srb.png"
-											]
-										]
-									}
-								}
-							]
-						}
-					]
-				},
-				{
-					"id": "winter_sh",
-					"styles": [
-						{
-							"poses": [
-								{
-									"id": "base",
-									"compatibleHeads": [
-										"shorthair_6",
-										"shorthair_5",
-										"shorthair_4",
-										"shorthair_3",
-										"shorthair_2",
-										"shorthair_1"
-									],
-									"positions": {
-										"Variant": [
-											[
-												"./1wlb.png",
-												"./1wrb.png"
-											],
-											[
-												"./1wlb.png",
-												"./2wrb.png"
-											],
-											[
-												"./2wlb.png",
-												"./1wrb.png"
-											],
-											[
-												"./2wlb.png",
-												"./2wrb.png"
-											],
-											[
-												"./3wlb.png",
-												"./1wrb.png"
-											],
-											[
-												"./3wlb.png",
-												"./2wrb.png"
-											]
-										]
-									}
-								}
-							]
-						}
-					]
-				}
-			],
 			"heads": {
 				"longhair_1": {
 					"variants": [
@@ -1693,7 +1307,465 @@
 						]
 					]
 				}
-			}
+			},
+			"styleGroups": [
+				{
+					"id": "uniform_lh",
+					"styles": [
+						{
+							"poses": [
+								{
+									"id": "base",
+									"positions": {
+										"Variant": [
+											[
+												"./1l.png",
+												"./1r.png"
+											],
+											[
+												"./1l.png",
+												"./2r.png"
+											],
+											[
+												"./2l.png",
+												"./1r.png"
+											],
+											[
+												"./2l.png",
+												"./2r.png"
+											],
+											[
+												"./3l.png",
+												"./1r.png"
+											],
+											[
+												"./3l.png",
+												"./2r.png"
+											]
+										]
+									},
+									"compatibleHeads": [
+										"longhair_1",
+										"longhair_2",
+										"longhair_3",
+										"longhair_4",
+										"longhair_5",
+										"longhair_6"
+									],
+									"renderCommands": [
+										{
+											"type": "pose-part"
+										},
+										{
+											"type": "head",
+											"part": "Variant"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "casual_lh",
+					"styles": [
+						{
+							"poses": [
+								{
+									"id": "base",
+									"positions": {
+										"Variant": [
+											[
+												"./1bl.png",
+												"./1br.png"
+											],
+											[
+												"./1bl.png",
+												"./2br.png"
+											],
+											[
+												"./2bl.png",
+												"./1br.png"
+											],
+											[
+												"./2bl.png",
+												"./2br.png"
+											],
+											[
+												"./3bl.png",
+												"./1br.png"
+											],
+											[
+												"./3bl.png",
+												"./2br.png"
+											]
+										]
+									},
+									"compatibleHeads": [
+										"longhair_1",
+										"longhair_2",
+										"longhair_3",
+										"longhair_4",
+										"longhair_5",
+										"longhair_6"
+									],
+									"renderCommands": [
+										{
+											"type": "pose-part"
+										},
+										{
+											"type": "head",
+											"part": "Variant"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "swimsuit_lh",
+					"styles": [
+						{
+							"poses": [
+								{
+									"id": "base",
+									"compatibleHeads": [
+										"longhair_1",
+										"longhair_2",
+										"longhair_3",
+										"longhair_4",
+										"longhair_5",
+										"longhair_6"
+									],
+									"positions": {
+										"Variant": [
+											[
+												"./1sl.png",
+												"./1sr.png"
+											],
+											[
+												"./1sl.png",
+												"./2sr.png"
+											],
+											[
+												"./2sl.png",
+												"./1sr.png"
+											],
+											[
+												"./2sl.png",
+												"./2sr.png"
+											],
+											[
+												"./3sl.png",
+												"./1sr.png"
+											],
+											[
+												"./3sl.png",
+												"./2sr.png"
+											]
+										]
+									},
+									"renderCommands": [
+										{
+											"type": "pose-part",
+											"part": "Variant"
+										},
+										{
+											"type": "head"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "winter_lh",
+					"styles": [
+						{
+							"poses": [
+								{
+									"id": "base",
+									"positions": {
+										"Variant": [
+											[
+												"./1wl.png",
+												"./1wr.png"
+											],
+											[
+												"./1wl.png",
+												"./2wr.png"
+											],
+											[
+												"./2wl.png",
+												"./1wr.png"
+											],
+											[
+												"./2wl.png",
+												"./2wr.png"
+											],
+											[
+												"./3wl.png",
+												"./1wr.png"
+											],
+											[
+												"./3wl.png",
+												"./2wr.png"
+											]
+										]
+									},
+									"compatibleHeads": [
+										"longhair_1",
+										"longhair_2",
+										"longhair_3",
+										"longhair_4",
+										"longhair_5",
+										"longhair_6"
+									],
+									"renderCommands": [
+										{
+											"type": "pose-part",
+											"part": "Variant"
+										},
+										{
+											"type": "head"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "uniform_sh",
+					"styles": [
+						{
+							"poses": [
+								{
+									"id": "base",
+									"compatibleHeads": [
+										"shorthair_1",
+										"shorthair_2",
+										"shorthair_3",
+										"shorthair_4",
+										"shorthair_5",
+										"shorthair_6"
+									],
+									"positions": {
+										"Variant": [
+											[
+												"./1lb.png",
+												"./1rb.png"
+											],
+											[
+												"./1lb.png",
+												"./2rb.png"
+											],
+											[
+												"./2lb.png",
+												"./1rb.png"
+											],
+											[
+												"./2lb.png",
+												"./2rb.png"
+											],
+											[
+												"./3lb.png",
+												"./1rb.png"
+											],
+											[
+												"./3lb.png",
+												"./2rb.png"
+											]
+										]
+									},
+									"renderCommands": [
+										{
+											"type": "pose-part",
+											"part": "Variant"
+										},
+										{
+											"type": "head"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "casual_sh",
+					"styles": [
+						{
+							"poses": [
+								{
+									"id": "base",
+									"compatibleHeads": [
+										"shorthair_1",
+										"shorthair_2",
+										"shorthair_3",
+										"shorthair_4",
+										"shorthair_5",
+										"shorthair_6"
+									],
+									"positions": {
+										"Variant": [
+											[
+												"./1blb.png",
+												"./1brb.png"
+											],
+											[
+												"./1blb.png",
+												"./2brb.png"
+											],
+											[
+												"./2blb.png",
+												"./1brb.png"
+											],
+											[
+												"./2blb.png",
+												"./2brb.png"
+											],
+											[
+												"./3blb.png",
+												"./1brb.png"
+											],
+											[
+												"./3blb.png",
+												"./2brb.png"
+											]
+										]
+									},
+									"renderCommands": [
+										{
+											"type": "pose-part",
+											"part": "Variant"
+										},
+										{
+											"type": "head"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "swimsuit_sh",
+					"styles": [
+						{
+							"poses": [
+								{
+									"id": "base",
+									"compatibleHeads": [
+										"shorthair_1",
+										"shorthair_2",
+										"shorthair_3",
+										"shorthair_4",
+										"shorthair_5",
+										"shorthair_6"
+									],
+									"positions": {
+										"Variant": [
+											[
+												"./1slb.png",
+												"./1srb.png"
+											],
+											[
+												"./1slb.png",
+												"./2srb.png"
+											],
+											[
+												"./2slb.png",
+												"./1srb.png"
+											],
+											[
+												"./2slb.png",
+												"./2srb.png"
+											],
+											[
+												"./3slb.png",
+												"./1srb.png"
+											],
+											[
+												"./3slb.png",
+												"./2srb.png"
+											]
+										]
+									},
+									"renderCommands": [
+										{
+											"type": "pose-part",
+											"part": "Variant"
+										},
+										{
+											"type": "head"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "winter_sh",
+					"styles": [
+						{
+							"poses": [
+								{
+									"id": "base",
+									"compatibleHeads": [
+										"shorthair_6",
+										"shorthair_5",
+										"shorthair_4",
+										"shorthair_3",
+										"shorthair_2",
+										"shorthair_1"
+									],
+									"positions": {
+										"Variant": [
+											[
+												"./1wlb.png",
+												"./1wrb.png"
+											],
+											[
+												"./1wlb.png",
+												"./2wrb.png"
+											],
+											[
+												"./2wlb.png",
+												"./1wrb.png"
+											],
+											[
+												"./2wlb.png",
+												"./2wrb.png"
+											],
+											[
+												"./3wlb.png",
+												"./1wrb.png"
+											],
+											[
+												"./3wlb.png",
+												"./2wrb.png"
+											]
+										]
+									},
+									"renderCommands": [
+										{
+											"type": "pose-part",
+											"part": "Variant"
+										},
+										{
+											"type": "head"
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
 		}
 	]
 }
