@@ -1697,10 +1697,10 @@
 									"renderCommands": [
 										{
 											"type": "pose-part",
-											"part": "Variant"
 										},
 										{
 											"type": "head"
+											"part": "Variant"
 										}
 									]
 								}
