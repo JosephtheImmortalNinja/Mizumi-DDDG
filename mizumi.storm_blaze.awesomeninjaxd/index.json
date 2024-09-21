@@ -1354,7 +1354,7 @@
 									],
 									"renderCommands": [
 										{
-											"type": "pose-part"
+											"type": "pose-part",
 											"part": "Variant"
 										},
 										{
@@ -1411,7 +1411,7 @@
 									],
 									"renderCommands": [
 										{
-											"type": "pose-part"
+											"type": "pose-part",
 											"part": "Variant"
 										},
 										{
